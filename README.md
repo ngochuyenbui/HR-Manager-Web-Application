@@ -1,4 +1,18 @@
 # Project Overview
+This project was developed as part of the Integrated Information Systems Project course by a team of six members. It is a web-based Human Resource Management (HRM) System that helps organizations manage employee information, attendance, and payroll in a centralized platform.
+
+## Key Features
+### Account Management
+- Create and manage employee accounts
+- Update employee information
+- View employee profiles
+- Deactivate or remove former employees
+### Employee Management
+- Record employee attendance
+- Automatically calculate salaries
+- View monthly payroll information
+
+The project demonstrates the application of information systems analysis, database design, and web development in solving HR management tasks.
 
 ## Tech Stack
 
